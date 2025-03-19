@@ -1,8 +1,11 @@
 # Adidas-Interactive-Sales-Dashboard
+````
 This project presents an interactive Sales Dashboard for Adidas using Streamlit and Plotly.
+````
 ## Introduction
+````
 This dashboard analyzes Adidas sales data from an Excel file. It provides users with insights into sales performance across various metrics such as retailer performance, monthly sales, sales by state, and more. By using interactive Plotly visualizations, users can explore:
-
+````
 Total Sales by Retailer
 Total Sales Over Time
 Sales and Units Sold by State
